@@ -16,7 +16,7 @@
 - Provide actionable recommendations for improving loan approval criteria and reducing default rates
 
 ---
-# Tools & Technologies
+# Tools Used
 - MySQL
 - Python (Pandas)
 - Tableau
