@@ -20,3 +20,8 @@
 - MySQL
 - Python (Pandas)
 - Tableau
+
+---
+# Segment Analysis
+<img width="2576" height="1340" alt="image" src="https://github.com/user-attachments/assets/5a5fa194-3030-442b-9100-1a170f1b5146" />
+
