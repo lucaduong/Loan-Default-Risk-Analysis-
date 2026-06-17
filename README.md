@@ -41,35 +41,37 @@ Default risk decreases consistently as credit score increases:
 - 750+: ~12%
 
 ## 2. High Debt-to-Income (DTI) Ratio Increases Default Risk
-Borrowers with DTI > 50% have the highest default rate at 34.32%  
-Lower DTI groups show significantly reduced risk  
-Default risk rises sharply when DTI exceeds 40–50%, indicating over-leveraged borrowers.
+* Borrowers with DTI > 50% have the highest default rate at 34.32%  
+* Lower DTI groups show significantly reduced risk  
+* Default risk rises sharply when DTI exceeds 40–50%, indicating over-leveraged borrowers.
 
 ## 3. Employment Stability Matters (Years Employed)
-Short employment history is strongly associated with higher default risk.  
-Borrowers with less than 2 years of employment: 34.52%  
-Borrowers with 2+ years of employment: 22.63%
+* Short employment history is strongly associated with higher default risk.  
+* Borrowers with less than 2 years of employment: 34.52%  
+* Borrowers with 2+ years of employment: 22.63%
 
 ## 4. Employment Type Has Moderate Impact  
-Income stability plays a role, but less than credit score or DTI.
-Highest risk is Part-time workers: 27.69%  
-Lower risk groups are Self-employed, full-time, retired, and contract workers range from 22–25%
+* Income stability plays a role, but less than credit score or DTI.
+* Highest risk is Part-time workers: 27.69%  
+* Lower risk groups are Self-employed, full-time, retired, and contract workers range from 22–25%
 
 ## 5. Loan Purpose Influences Risk
-Certain discretionary spending categories are associated with higher default risk.  
-Highest default rate are Wedding loans (32.14%), Home improvement (28.57%), Auto loans (27.12%).
-Lower-risk purposes are Medical, moving, and debt consolidation (~20–22%).
+* Certain discretionary spending categories are associated with higher default risk.  
+* Highest default rate are Wedding loans (32.14%), Home improvement (28.57%), Auto loans (27.12%).
+* Lower-risk purposes are Medical, moving, and debt consolidation (~20–22%).
 
 ---
 
-# Conclusion & Recommendation
+# III. Conclusion & Recommendation
 
-## Top 3 Key Risk Drivers 
+## 1. Top 3 Key Risk Drivers 
+
 - Credit Score (Primary Driver): Lower scores strongly correlate with higher default probability
 - Debt-to-Income Ratio (DTI): High DTI indicates financial stress and inability to repay
 - Employment Stability: Short employment duration increases uncertainty in income
 
-## Recommendation
+## 2. Recommendation
+
 1. Implement Minimum Credit Score Threshold
 - Recommend setting a cutoff at ≥ 650
 - Loans to borrowers with credit scores below 650 should be subject to stricter scrutiny or additional qualifying criteria, given the notable increase in default rates below this threshold.
