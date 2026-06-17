@@ -20,9 +20,9 @@
 * Provide actionable recommendations for improving loan approval criteria and reducing default rates
 
 
-# 3. Tools Used
+## 3. Tools Used
 * MySQL
-*Excel
+* Excel
 * Tableau
 
 ---
