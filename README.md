@@ -11,7 +11,7 @@
 * The company is currently experiencing a default rate significantly above its 12% target, with approximately 1 in 4 loans defaulting. This analysis identifies the key factors driving default risk across borrower profiles, loan characteristics, and financial indicators.
 * This project aims to uncover the primary risk drivers behind loan defaults and support the development of more effective credit policies.
 
----
+
 ## 2. Objectives
 
 * Measure the default rate and analyze how it varies across borrower segments  
@@ -19,7 +19,7 @@
 * Identify high-risk loan purposes and compare loan characteristics between defaulted and non-defaulted borrowers  
 * Provide actionable recommendations for improving loan approval criteria and reducing default rates
 
----
+
 # 3. Tools Used
 * MySQL
 *Excel
