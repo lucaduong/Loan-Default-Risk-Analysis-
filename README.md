@@ -1,27 +1,33 @@
 # Loan Default Risk Analysis
----
 
-# Introduction
-
-- Horizon Financial Group is currently experiencing a default rate significantly above its 12% target, with approximately 1 in 4 loans defaulting. This analysis identifies the key factors driving default risk across borrower profiles, loan characteristics, and financial indicators.  
-- This project aims to uncover the primary risk drivers behind loan defaults and support the development of more effective credit policies.
+<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/3c163377-5cc0-4854-9e8a-976f48a6938e" />
 
 ---
-# Objectives
 
-- Measure the default rate and analyze how it varies across borrower segments  
-- Evaluate the impact of credit score, debt-to-income (DTI) ratio, and employment stability on default risk  
-- Identify high-risk loan purposes and compare loan characteristics between defaulted and non-defaulted borrowers  
-- Provide actionable recommendations for improving loan approval criteria and reducing default rates
+# I. Introduction
 
----
-# Tools Used
-- MySQL
-- Python (Pandas)
-- Tableau
+## 1. Background 
+* Horizon Financial Group is a mid-size consumer lending company. Management is concerned about the rising default rate on personal loans and wants data-driven insights to improve the underwriting process.
+* The company is currently experiencing a default rate significantly above its 12% target, with approximately 1 in 4 loans defaulting. This analysis identifies the key factors driving default risk across borrower profiles, loan characteristics, and financial indicators.
+* This project aims to uncover the primary risk drivers behind loan defaults and support the development of more effective credit policies.
 
 ---
-# Segment Analysis: Key Findings  
+## 2. Objectives
+
+* Measure the default rate and analyze how it varies across borrower segments  
+* Evaluate the impact of credit score, debt-to-income (DTI) ratio, and employment stability on default risk  
+* Identify high-risk loan purposes and compare loan characteristics between defaulted and non-defaulted borrowers  
+* Provide actionable recommendations for improving loan approval criteria and reducing default rates
+
+---
+# 3. Tools Used
+* MySQL
+*Excel
+* Tableau
+
+---
+
+# II. Segment Analysis: Key Findings  
 
 <img width="2576" height="1340" alt="image" src="https://github.com/user-attachments/assets/dbe24132-8797-4b23-8f82-5541b20cc54f" />
 
