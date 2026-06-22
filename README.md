@@ -20,7 +20,7 @@
 * Provide actionable recommendations for improving loan approval criteria and reducing default rates
 
 
-## 3. Tools Used
+## 3. Tech Stack
 * MySQL
 * Excel
 * Tableau
@@ -34,11 +34,14 @@
 ## 1. Credit Score is the Strongest Predictor of Default
 Borrowers with low credit scores (520–599) show an extremely high default rate of 49.14%.   
 Borrowers below 650 represent a significantly higher risk segment.  
-Default risk decreases consistently as credit score increases:
-- 600–649: ~29%
-- 650–699: ~28%
-- 700–749: ~16%
-- 750+: ~12%
+Default risk decreases consistently as credit score increases:  
+
+| Credit Score | Default Rate |
+|--------------|--------------|
+| 600–649 | 29% |
+| 650–699 | 28% |
+| 700–749 | 16% |
+| 750+ | 12% |
 
 ## 2. High Debt-to-Income (DTI) Ratio Increases Default Risk
 * Borrowers with DTI > 50% have the highest default rate at 34.32%  
