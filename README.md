@@ -32,9 +32,9 @@
 <img width="2576" height="1340" alt="image" src="https://github.com/user-attachments/assets/dbe24132-8797-4b23-8f82-5541b20cc54f" />
 
 ## 1. Credit Score is the Strongest Predictor of Default
-Borrowers with low credit scores (520–599) show an extremely high default rate of 49.14%.   
-Borrowers below 650 represent a significantly higher risk segment.  
-Default risk decreases consistently as credit score increases:  
+* Borrowers with low credit scores (520–599) show an extremely high default rate of 49.14%.   
+* Borrowers below 650 represent a significantly higher risk segment.  
+* Default risk decreases consistently as credit score increases:  
 
 | Credit Score | Default Rate |
 |--------------|--------------|
@@ -67,13 +67,22 @@ Default risk decreases consistently as credit score increases:
 
 # III. Conclusion & Recommendation
 
-## 1. Top 3 Key Risk Drivers 
+## 1. Key Conclusion
+
+| Dimension | Lowest Risk Profile | Description |
+|-----------|-------------------|-------------|
+| **Credit Score** | >800 (Exceptional) | Highest credit worthiness |
+| **DTI Ratio** | <20% (Excellent) | Minimal debt burden |
+| **Loan Purpose** | Medical Expenses | Purpose-based risk assessment |
+| **Employment Status** | Contract | Employment type analysis |
+
+## 2. Top 3 Key Risk Drivers 
 
 - Credit Score (Primary Driver): Lower scores strongly correlate with higher default probability
 - Debt-to-Income Ratio (DTI): High DTI indicates financial stress and inability to repay
 - Employment Stability: Short employment duration increases uncertainty in income
 
-## 2. Recommendation
+## 3. Recommendation
 
 1. Implement Minimum Credit Score Threshold
 - Recommend setting a cutoff at ≥ 650
